@@ -1,0 +1,50 @@
+#mid
+{
+	background: #FFFFFF;
+}
+
+#frontleft
+{
+	position: absolute;
+	left: 0px;
+	width: 480px;
+	padding-top: 10px;
+	font-size: 11pt;
+	font-family: "Cambria", "Serif";
+	text-align: justify;
+}
+
+#frontright
+{
+	margin-left: 480px;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+.frontimg
+{
+	width: 283px;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10;
+}
+
+.frontimgbig
+{
+	width: 351px;
+	height: 206px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 70;	
+}
+
+.carousel {
+	max-height: 400px;
+  overflow: hidden;
+}
+
+.carousel .item img {
+	width: 100%;
+	height: auto;
+}
